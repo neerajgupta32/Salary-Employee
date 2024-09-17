@@ -1,0 +1,18 @@
+[
+  {
+    "empId": "2",
+    "empName": "Subodh",
+    "department": "IT",
+    "salary": "50000",
+    "startDate": "2024-08-01",
+    "leaveDays": "1"
+  },
+  {
+    "empId": "1",
+    "empName": "sandeep",
+    "department": "IT",
+    "salary": "100000",
+    "startDate": "2024-08-01",
+    "leaveDays": "2"
+  }
+]
